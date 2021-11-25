@@ -1,0 +1,23 @@
+{
+  "name": "color-changing-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-Beginners/color-changing-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-Beginners/color-changing-app/issues"
+  },
+  "homepage": "https://github.com/JS-Beginners/color-changing-app#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
